@@ -1,0 +1,2 @@
+# petrolStokTakipUygulamasi
+Windows Form çalışmasıdır
